@@ -17,7 +17,7 @@ Maven
 Git + GitHub
 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/Yashvant1221/LibraryBookCatelog.git
+git clone https://github.com/Raushan7011/LibraryBookCatelog.git
 cd LibraryBookCatelog
 
 
